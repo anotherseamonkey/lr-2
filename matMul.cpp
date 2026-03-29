@@ -26,6 +26,7 @@ int main()
     int threads = 16;
     float *time_m;
     time_m = new float[6];
+    
     for (l; l < 6; l++) {
         const int N = arr[l];
         cout << N << endl;
